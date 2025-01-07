@@ -1,1 +1,1 @@
-# scrimmage
+# MERN Stack practice
